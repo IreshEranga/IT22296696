@@ -38,5 +38,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22296696&theme=tokyonight" alt="Iresh Eranga" /></p> <br>
 
-<!--START_SECTION:waka1-->
-<!--END_SECTION:waka1-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
